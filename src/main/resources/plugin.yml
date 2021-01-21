@@ -1,0 +1,5 @@
+name: Kotlin
+version: 1.0-SNAPSHOT
+main: com.github.danta.kotlin.Kotlin
+api-version: 1.16
+authors: [ Danta ]
